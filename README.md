@@ -1,29 +1,6 @@
-### ✓ 원티드 프리온보딩 프론트엔드
+## ✓ 원티드 프리온보딩 프론트엔드
 
 ---
-
-```javascript
-const Introduce = {
-    project : "wanted-pre-onboarding-challenge-fe-2",
-    nickname : "joo98e",
-    author : "joo98e",
-    age : 29,
-    useSkills : [
-        "javascript",
-        "typescript",
-        "node",
-        "react",
-        "Nextjs",
-        "Nestjs",
-        "react-query",
-        "react-hook-form",
-        "emotion",
-        "redux",
-        "ts-jenum",
-        ...others,
-    ]
-}
-```
 
 ### 요구사항
 
