@@ -1,0 +1,28 @@
+{
+  "name": "wanted-pre-onboarding-challenge-fe-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs": "jsdoc -c jsdoc.json",
+    "generate-docs": "node_modules/.bin/jsdoc -c jsdoc.json -t node_modules/docdash/publish.js",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joo98e/wanted-pre-onboarding-challenge-fe-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joo98e/wanted-pre-onboarding-challenge-fe-2/issues"
+  },
+  "homepage": "https://joo98e.github.io/wanted-pre-onboarding-challenge-fe-2",
+  "devDependencies": {
+    "docdash": "^2.0.1",
+    "gh-pages": "^5.0.0",
+    "jsdoc": "^4.0.0"
+  }
+}
